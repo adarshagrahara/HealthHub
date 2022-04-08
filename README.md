@@ -43,4 +43,4 @@ flask run
 ```
 
 
-Created by [Ben Nguyen](https://github.com/BenVN123), [Rishit Agrawal](https://github.com/RishitAgrawal06), [Adarsh Agrahara](https://github.com/boogeyman-is-back-at-crabfest), and [Eshaan Kaipa](https://github.com/epicesh)
+Created by [Ben Nguyen](https://github.com/BenVN123), [Rishit Agrawal](https://github.com/RishitAgrawal06), [Adarsh Agrahara](https://github.com/adarshagrahara), and [Eshaan Kaipa](https://github.com/epicesh)
